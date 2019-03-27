@@ -1,0 +1,22 @@
+{
+  "name": "lodown-jessemarin",
+  "version": "1.0.0",
+  "description": "_.*",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseMarin/lodown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseMarin/lodown/issues"
+  },
+  "homepage": "https://github.com/JesseMarin/lodown#readme"
+}
